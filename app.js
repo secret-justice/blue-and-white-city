@@ -1,4 +1,3 @@
-const LICENSE_PLAN = 'C';  // 版权降级方案 C：不呈现译文章节与尾注
 /* ============================================================
    蓝白之城 · The City of Blue and White
    中英双语交互式数字出版物 —— 交互逻辑与内容数据
@@ -660,7 +659,7 @@ function renderTransNet() {
 }
 function transNetPick(id) { TNET_CUR = id; renderTransNet(); }
 
-/* ---------- 4. 选读 ---------- */
+/* ---------- 4. 长文 ---------- */
 const READINGS = [
   {
     id: 'r1', tz: `周一清晨的瓷片市场`, te: `A Monday Morning at the Shard Market`, src: `团队原创长文 · Team essay`,
