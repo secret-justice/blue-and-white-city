@@ -1,0 +1,47 @@
+{
+  "schema": "blueandwhite/1",
+  "dataset": "notes",
+  "count": 5,
+  "records": [
+    {
+      "n": 1,
+      "src": "第一章注 1",
+      "t": "多语言引文处理 · Multi-language citation",
+      "ref": "Krahl, “Tang Blue-and-White”, in *Shipwrecked: Tang Treasures and Monsoon Winds*, ed. Krahl, Guy, Wilson & Raby (Washington & Singapore, 2010), 209–211.",
+      "note": "原文为多语言混排的展览图录著录。本作品按学术规范保留原刊名、卷次与页码，仅将编者与出版机构按通行译名回填，不对引文正文作整段翻译。",
+      "en": "Regina Krahl, “Tang Blue-and-White”, in Shipwrecked: Tang Treasures and Monsoon Winds, ed. Regina Krahl, John Guy, J. Keith Wilson, and Julian Raby (Washington and Singapore: Arthur M. Sackler Gallery, Smithsonian Institution; National Heritage Board, Singapore Tourism Board, 2010), 209–211."
+    },
+    {
+      "n": 2,
+      "src": "第一章注 3",
+      "t": "中文机构名回查 · Restoration of a Chinese title",
+      "ref": "Kerr & Wood, *Ceramic Technology*, in *Science and Civilisation in China*, vol. 5.12 (Cambridge, 2004).",
+      "note": "该著录含中文机构名与外文丛书名。处理方式：丛书名保留原文，作者名首次出现时补中文通行译名（柯玫瑰），以便中文读者检索；不复制原书对本书内容的评述文字。",
+      "en": "The best study of technological change in Jingdezhen’s manufactures remains Rose Kerr and Nigel Wood, Ceramic Technology, Science and Civilisation in China, Vol. 5: Chemistry and Chemical Technology, Part XII (原出版方, 2004)."
+    },
+    {
+      "n": 3,
+      "src": "第一章注 6",
+      "t": "多来源引文 · Multi-source citation",
+      "ref": "Finlay, *The Pilgrim Art* (Berkeley, 2010); Dillon, *Transport and Marketing in the Development of the Jingdezhen Porcelain Industry* (2012).",
+      "note": "同一条注内含两项来源。本作品以「引注索引」形式并列两条著录，保留作者、书名与年份三项关键信息，省略原文中的评述性从句。",
+      "en": "Robert Finlay, The Pilgrim Art: Cultures of Porcelain in World History (Berkeley: University of California Press, 2010); Michael Dillon, “Transport and Marketing in the Development of the Jingdezhen Porcelain Industry during the Ming and Qing Dynasties”, Journal of the Social and Economic History of the Orient 35, 3 (1992): 278–290; Stephen Little, “Economic Change in Seventeenth-Century China and Innovations at the Jingdezhen Kilns”, Ars Orientalis 26 (1996): 47–54; the author, “Ceramics for Local and Global Markets: Jingdezhen’s Agora of Technologies”, in Cultures of Knowledge: Technology in Chinese History, ed. Dagmar Schäfer and Francesca Bray (Leiden: Brill, 2012), 164–186."
+    },
+    {
+      "n": 4,
+      "src": "第五章注 3",
+      "t": "中文文献还原 · Restoration of a Chinese classic",
+      "ref": "曹昭，《新增格古要论》，1459 年刊本；长沙：商务印书馆，1939 年重印，卷七，23b–24a。",
+      "note": "中文古籍的回译条目：以汉字原名回填，保留卷次与叶码（b 面）标注方式，出版信息按原刊记法保留。此类条目属来源信息，不涉译文正文。",
+      "en": "Cao Zhao 曹昭, Xinzeng Geguyaolun 新增格古要论 (1459; repr., Changsha: Shangwu chubanshe, 1939), juan 7.23b–24a."
+    },
+    {
+      "n": 5,
+      "src": "第五章注 4",
+      "t": "中文文献还原 · Restoration of a Chinese classic",
+      "ref": "方以智，《物理小识》卷八，25a–b；载《四库全书》第 131–132 册（台北：台湾商务印书馆，1981）。",
+      "note": "同上，中文文献还原。此类回译的关键是「叶码」体例（25a–b）与丛书册次的对应，术语库中已登记「叶码 / leaf numbering」一条，便于读者理解古籍引注格式。",
+      "en": "Fang Yizhi 方以智 (1611–1671), Wuli xiaoshi 物理小识, vol. 8.25a–b, Siku Quanshu 四库全书 (Taipei: Taiwan Shangwu Yinshuguan, 1981)."
+    }
+  ]
+}
