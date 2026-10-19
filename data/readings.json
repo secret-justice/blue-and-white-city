@@ -1,0 +1,121 @@
+{
+  "schema": "blueandwhite/1",
+  "dataset": "readings",
+  "count": 6,
+  "records": [
+    {
+      "id": "r1",
+      "tz": "瓷片市场",
+      "te": "The Shard Market",
+      "src": "译自第一章「景德镇的碎片市场」",
+      "quote": "在中国南方的城市景德镇，大多数周一的早晨都会举办一场古董市场。这里出售各种古董，但绝大多数是陶瓷碎片。数百名卖家将商品摆放在地上的布袋上，买家则蹲下身去翻看物件并议价。第一印象可能会让人觉得卖家的货物并不特别值钱：它们中很多做工粗糙、脏污或有破损。",
+      "comment": "这一章的方法值得单独说明：作者没有从博物馆精品开始，而是从一个周一清晨的碎片市场开始。这不是修辞，而是论证策略——碎瓷片同时是消费的终点与生产的残渣，它把「全球贸易」这种宏大叙述落回到可以称重、可以议价、可以追溯产地的实物上。翻译上的难点是 shard 的译法：中文「瓷片」既指考古标本也指市井旧货，而英文 shard / sherd 在学术与市井两种语境中分野更清楚。我们统一译作「瓷片」，并在术语库标注其考古学拼写 sherd，以保留与英文文献互查的通道。另外，九世纪勿里洞沉船「七万件陶瓷中只有少数带蓝」这一细节，是全书的时间坐标起点：它把青花的成熟定位在十四世纪，而不是更早的偶然尝试。",
+      "en": "<b>English synopsis (team-written)</b>The chapter opens at a Monday morning antiques market in Jingdezhen, where vendors sell bags of ceramic shards. From this scene the book unfolds its argument: Jingdezhen's rise as the foremost ceramic producer of the early modern world, linking a local market to global circulations of objects, people and ideas. A ninth-century Arab dhow wreck off Belitung with 70,000 ceramics proves the antiquity of this demand — yet only a few blue-and-white dishes were aboard; mass production of blue-and-white still lay five centuries ahead. <b>The argument</b>Jingdezhen's rise cannot be told as a local story. The Belitung wreck, found by fishermen in 1998 with some 70,000 ceramics aboard a ninth-century dhow, shows that the Indian Ocean trade in Chinese ceramics long predates blue-and-white — yet only a handful of those pieces carry blue decoration. Mass production of blue-painted white ware in China would take another five hundred years. What sits in a vendor's cloth bag on a Monday morning is therefore the visible end of a chain that begins on the Chang River: upstream lie the mountains with their clay, firewood and glaze ash; downstream lie Poyang Lake, the Yangtze, the Grand Canal and the empire's ports. <b>What to look for</b>The chapter's method is not anecdote but scale: it moves from a provincial market to the Indian Ocean and back, until a heap of broken bowls becomes evidence of a global past.",
+      "img": "assets/scenes/s07_shards.jpg",
+      "capz": "图：瓷片市场 · 团队 AI 影像静帧",
+      "cape": "Image: the shard market · still from team AI footage",
+      "kt": [
+        "青花",
+        "景德镇",
+        "昌江",
+        "独桅帆船",
+        "早期近代世界"
+      ]
+    },
+    {
+      "id": "r2",
+      "tz": "大维德瓶",
+      "te": "The David Vases",
+      "src": "译自第五章「十四世纪：青花瓷的出现」",
+      "quote": "现称大维德瓶the David vases大维德瓶：伦敦大维德基金会藏两件元至正十一年（1351）款青花龙纹瓶，元青花断代标杆。勿译「大卫花瓶」。的两件青花庙堂花瓶，不仅以其惊人的美丽而闻名，还因为它们为景德镇在十四世纪中叶烧制青花瓷器提供了确切的年代依据。写在瓶颈釉下铭文中的 1351 年日期，为十四世纪中叶青花装饰的卓越品质提供了无可辩驳的证据。",
+      "comment": "大维德瓶的价值不在于它美，而在于它可被断代。瓶颈釉下的至正十一年（1351）铭文，是元青花研究里极少数的绝对年代锚点——此后大量无款器物的年代判断，都以与它的比对为基准。本书的方法在这里体现得最清楚：作者把瓶身的分层装饰带（口沿缠枝菊、颈部蕉叶纹、环绕铭文的分层构图）与元代吉州窑的装饰惯例并置，指出即使吉州用铁料而非钴料，纹样组织方式仍然相通。这支持了全书的一个核心判断：青花的成熟不是孤立的技术突破，而是工匠流动与原料流动共同促成的结果。翻译上的体例决定：「大维德瓶」依学界通行译名，不译作「大卫花瓶」；吉州、磁州、湖田等窑口统一回填中文原名，术语库中保留英文拼写以便反查。",
+      "en": "<b>English synopsis (team-written)</b>The two David Vases in the Percival David Collection, inscribed \"Zhizheng eleventh year\" (1351), provide irrefutable dating for the excellence of mid-fourteenth-century blue-and-white. Their decorative bands — chrysanthemum scrolls, plantain leaves and floral chains — closely parallel Yuan-dynasty Jizhou wares, suggesting that craftsmen who had once worked at Jizhou brought their repertoire south to Jingdezhen, where it met local clay and kilns. <b>The argument</b>The maturity of blue-and-white was not an isolated technical revolution but the meeting of people and materials in motion. The white-bodied, iron-painted wares of Cizhou and the underglaze-painted wares of Jizhou travelled south with migrating craftsmen into Jiangxi, where they met Jingdezhen's porcelain stone and kiln technology. The vases' layered bands — chrysanthemum scroll, pointed plantain leaves, and the dated inscription around the neck — are read here alongside Jizhou conventions, even though Jizhou potters worked with iron minerals rather than cobalt. <b>What to look for</b>The 1351 inscription is one of the very few fixed points in the chronology. Almost everything dated around it is dated by comparison with it — which is why these vases matter far beyond their beauty.",
+      "img": "assets/artifacts/g02_meiping_xiaohe.jpg",
+      "capz": "图：元青花人物图梅瓶（示意）· 团队 AI 图像",
+      "cape": "Image: Yuan dynasty narrative meiping (illustrative) · team AI image",
+      "kt": [
+        "大维德瓶",
+        "青花",
+        "吉州窑",
+        "钴料",
+        "磁州窑"
+      ]
+    },
+    {
+      "id": "r3",
+      "tz": "青花之城：御窑与城市空间",
+      "te": "The City of Blue and White: Kilns and Urban Space",
+      "src": "译自第七章「青花之城：明代景德镇的空间视觉化」",
+      "quote": "虽然景德镇这个名字让人联想到单一的城镇，但在讨论该地区的陶瓷生产时，景德镇并非指单一地点，而是指遍布整个地区的地点和遗址网络。在该地区整个生产时期——可能早在唐朝（八世纪）就已开始，并一直延续至今——共有 30 多个不同的窑场在运作。对于明朝而言，最著名的生产遗址当然是御窑厂imperial kilns / yueyao御窑（厂）：明代景德镇为宫廷烧造瓷器的官窑机构，位于镇中心珠山。区别于泛称的「官窑」。，此外还有十八渡、观音阁等民窑遗址。",
+      "comment": "这一章提醒读者：「景德镇」是一个网络，不是一个点。区域内先后运作的窑场超过三十处，明代最著名的是镇中心的御窑厂，此外还有十八渡、观音阁等民窑遗址。作者用三种空间想象来组织材料：行政层级（省—府—县—镇）、地理条件（环山提供资源、昌江负责运输）、以及考古遗址网络。三者叠合，才能解释为什么这个镇既处在帝国行政体系的边角，又能支配全球市场。一处细节很能说明史料的不对称：1525 年的江西地方志把瓷器与茯苓、白芍、乌药并列收入「物产」，编者对这种手工艺的书写与其规模完全不相称。翻译时我们保留了这处方志引文的字面结构，让这种「不相称」在中文里同样可见。",
+      "en": "<b>English synopsis (team-written)</b>Jingdezhen was never a single town but a network of over thirty kiln sites across the region. The chapter juxtaposes three ways of imagining space: the administrative hierarchy of province-prefecture-county-town; the physical geography of mountains and river that supplied kaolin and firewood; and the archaeological network of production sites — Hutian, Yaoli, Yinkangwu — revealed only slowly by excavation. A 1525 gazetteer ranks the wares of Jingdezhen, Hutian and Macangdang, listing porcelain alongside medicinal herbs among local products. <b>The argument</b>'Jingdezhen' names a network, not a town. More than thirty kiln sites worked across the region from perhaps the eighth century onwards; the Ming imperial kilns stood in the centre of the town, with folk kilns such as Shibadu and Guanyinge around them. Three ways of imagining that space are set side by side: the administrative hierarchy of province, prefecture, county and town; the physical geography of encircling mountains and a transporting river; and the archaeological network of kiln sites along the Chang. <b>What to look for</b>A 1525 Jiangxi gazetteer lists porcelain under 'local products' beside medicinal roots — a striking measure of how little written attention this vast industry attracted at the time.",
+      "img": "assets/scenes/s01_kiln.jpg",
+      "capz": "图：葫芦窑开窑 · 团队 AI 影像静帧",
+      "cape": "Image: opening the gourd kiln · still from team AI footage",
+      "kt": [
+        "御窑厂",
+        "民窑",
+        "湖田窑",
+        "昌江",
+        "高岭土"
+      ]
+    },
+    {
+      "id": "r4",
+      "tz": "克拉克瓷与全球贸易",
+      "te": "Kraak Porcelain and Global Trade",
+      "src": "译自第十章「十六世纪的物质流通」",
+      "quote": "将包括瓷器在内的中国商品运送到马六甲、澳门和马尼拉的中国商人，渴望带着来自西班牙控制的波托西矿山的白银返回明代中国——所有税赋均已折银缴纳，白银需求空前高涨。当然，这也意味着瓷器生产者有能力生产伊比利亚世界消费者所向往的商品。",
+      "comment": "这一章把「需求塑造生产」讲得最具体。中国商人把瓷器运到马六甲、澳门与马尼拉，换回西班牙控制的波托西白银——而此时明代税赋已折银征收，白银需求空前。在伊比利亚世界，瓷器被存放在名为 guardamangier 的房间，与玻璃器、餐具同处；在新西班牙，明亮的青花色调备受追捧，尤其是器物上出现易于辨识的场景时。开光构图——把器表分隔成彼此独立的装饰空间——正是对这种趣味的回应，由此产生的商品在十六世纪末迅速风靡欧洲与新世界。翻译上我们做了一处体例决定：guardamangier 这类伊比利亚宫廷用语的专名，保留原词并加中文括注，不强行意译，以免丢失其制度史含义。",
+      "en": "<b>English synopsis (team-written)</b>Chinese merchants carried porcelain to Malacca, Macao and Manila, returning with silver from Potosí at a moment when Ming taxes were commuted to silver. In Habsburg Spain porcelain was stored alongside glass and tableware; in New Spain its bright tones were coveted, especially with easily legible scenes of animals in landscapes. The panelled wares that resulted became known as kraak. With the VOC's founding in 1602, porcelain became a key commodity of the Dutch East India Company's trade. <b>The argument</b>Demand shaped production. Chinese merchants carried porcelain to Malacca, Macao and Manila and sailed home with silver from Potosí, at a moment when Ming taxes were commuted into silver and demand for the metal was unprecedented. Iberian consumers wanted recognisable scenes framed within abstract borders; the panelled, 'kraak' composition — a surface divided into independent decorative spaces — answered that taste and travelled quickly into the New World. <b>What to look for</b>The VOC, founded in 1602 with investors from all seven provinces, inherited Portuguese route knowledge and reached Banten by way of the Cape in 1595. Spices were the first objective; porcelain soon became a formidable competitor inside the same trade.",
+      "img": "assets/artifacts/g05_kraak_pan.jpg",
+      "capz": "图：克拉克瓷盘（示意）· 团队 AI 图像",
+      "cape": "Image: kraak dish (illustrative) · team AI image",
+      "kt": [
+        "克拉克瓷",
+        "马尼拉大帆船",
+        "VOC",
+        "外销瓷",
+        "开光"
+      ]
+    },
+    {
+      "id": "r5",
+      "tz": "尾声：全球往昔的碎片",
+      "te": "Epilogue: Fragments of a Global Past",
+      "src": "译自第十二章「尾声：全球往昔的碎片」",
+      "quote": "乍看起来，本书开篇所描绘的那个每周开市、专营碎瓷片买卖的集市，似乎并不是一个恰当的切入点。铺着脏塑料布、堆放着杂乱破碗、盘子和残破瓷片的市场，对历史学家而言，又能提供什么有价值的线索呢？景德镇「瓷片市场」的正式名称为陶瓷古玩市场，事实上为本书所探讨的全球史视角下的中国历史，以及那段全球历史对地方的影响，提供了宝贵的洞见。",
+      "comment": "全书起于碎片，也终于碎片。市场上大量物件其实是窑废品：烧成过程中变色、坍塌或破损而被砸碎的器物，多埋在窑址附近，也有一部分被直接抛入河中冲走。十六世纪中叶，皇帝每年定制的瓷器里常有高达八十六厘米的「鱼缸」。这类大件重心不稳，一旦倾倒就会殃及周围器物，整窑装烧可能功亏一篑——这一细节把「御用」的代价写成了具体的成品率问题。作者由此收束全书的方法：来路不明的碎片沿着河流、市场与航线抵达今天，它们既是全球消费的终点，也是全球往事留给当下的物质证据；历史学家的工作，是在碎片中辨认流动的轨迹。翻译这一章时，我们刻意保留「窑废品」这一术语的直白感，而没有采用更文雅的「次品」，因为原文的要点正是废弃物本身的历史价值。",
+      "en": "<b>English synopsis (team-written)</b>The epilogue returns to the shard market. Among its goods are kiln wasters — vessels that discoloured or collapsed in the fierce heat of the kiln, including the giant 86-centimetre \"fish bowls\" ordered annually by the emperor. Broken and buried beside the kilns or thrown into the river, these fragments are both the endpoint of global consumption and the material evidence a global past has left for the present. <b>The argument</b>The market that seemed an odd place to begin turns out to be the right place to end. Its goods are largely kiln wasters: pieces that discoloured or collapsed in the fierce heat, including the 86-centimetre 'fish bowls' ordered annually by the emperor in the mid-sixteenth century, which toppled under their own weight and brought down their neighbours in the stack. Wasters were smashed and buried beside the kilns, or thrown into the river to be carried away. <b>What to look for</b>The book begins with fragments and ends with fragments. Arriving through rivers, markets and shipping routes, they are at once the endpoint of global consumption and the material evidence a global past leaves to the present.",
+      "img": "assets/scenes/s07_shards.jpg",
+      "capz": "图：瓷片市场 · 团队 AI 影像静帧",
+      "cape": "Image: the shard market · still from team AI footage",
+      "kt": [
+        "窑废品",
+        "瓷片市场",
+        "鱼缸",
+        "御窑",
+        "物质文化"
+      ]
+    },
+    {
+      "id": "r6",
+      "tz": "巧手：御窑的人力资源",
+      "te": "Skilled Hands: Labour in the Imperial Kilns",
+      "src": "译自第九章「巧手：十六世纪御窑的人力资源与技艺管理」",
+      "quote": "御窑的奥秘不仅在土与火，更在人。明代匠户制度把全国工匠编入景德镇的窑务：轮班匠rotational service (lunban)轮班匠：明代匠户轮流赴京师或窑场应役的制度。按期轮值，住坐匠resident service (zhuzuo)住坐匠：常驻官营窑场应役的工匠。常驻窑场，另有大量工夫与砂土夫从事采土、舂泥与搬运。从拉坯、画青到烧火、开窑，劳动分工之细，各专其业。",
+      "comment": "御窑的奥秘不仅在土与火，更在人。明代匠户制度把全国工匠编入景德镇的窑务：轮班匠按期轮值，住坐匠常驻窑场，另有大量工夫与砂土夫从事采土、舂泥与搬运。从拉坯、画青到烧火、开窑，劳动分工之细，各专其业。作者关注的是这种制度如何同时实现两件事：保证宫廷用瓷的规格与品质，以及把庞大的劳动力组织进一个可核算、可追责的体系。对数字出版而言，这一章最适合做术语可视化：轮班／住坐、工夫／砂土夫、画青／烧火，都是成对出现的制度性词汇；我们在术语库中为它们建立了对应关系，读者可从一个词跳到它的制度语境。翻译上需要注意的是「匠户」不宜译作 guild（行会）：匠户是国家编户意义上的役籍，而非行会组织，这一区别已在术语注记中明确。",
+      "en": "<b>English synopsis (team-written)</b>The imperial kilns depended on the Ming artisan-household system: rotational and resident craftsmen, plus large numbers of labourers for mining, pounding and hauling. Labour was divided with great precision across throwing, painting in cobalt blue, firing and opening the kiln. Tang Ying, the Qing dynasty's most famous kiln superintendent, insisted on uniformity — some moulds repaired, some newly made — revealing that mass production was as much a problem of management as of technique. <b>The argument</b>The secret of the imperial kilns lay less in clay and fire than in people. The Ming artisan-household system bound craftsmen to the kilns: rotational craftsmen served in turns, resident craftsmen lived at the works, and large numbers of labourers mined clay, pounded it and hauled materials. Throwing, painting in cobalt, firing and opening the kiln were separate trades, each with its own expertise. <b>What to look for</b>This is a system of precision rather than individual genius. The terminology module of this publication collects the vocabulary of that division of labour (轮班匠 rotational service, 住坐匠 resident service).",
+      "img": "assets/scenes/s08_cobalt.jpg",
+      "capz": "图：青花料落笔 · 团队 AI 影像静帧",
+      "cape": "Image: the cobalt brush touches the body · still from team AI footage",
+      "kt": [
+        "轮班匠",
+        "住坐匠",
+        "督陶官",
+        "唐英",
+        "御窑"
+      ]
+    }
+  ]
+}
