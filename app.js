@@ -1143,7 +1143,17 @@ function initLazyRender() {
   setTimeout(() => LAZY_JOBS.forEach(([id]) => run(id)), 3500);
 }
 
+/* 支持 ?lang=en / ?lang=zh 直链（便于把英文链接发给国际读者） */
+function initLangFromURL() {
+  try {
+    const q = new URLSearchParams(location.search).get('lang');
+    if (q === 'en' || q === 'zh') { setLang(q); return true; }
+  } catch (e) {}
+  return false;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+  initLangFromURL();
   renderTimelineNodes();
   buildRouteMap();
   initLazyRender();
