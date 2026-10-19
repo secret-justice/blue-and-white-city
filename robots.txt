@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secret-justice.github.io/blue-and-white-city/sitemap.xml
